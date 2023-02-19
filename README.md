@@ -9,7 +9,7 @@
   
  - Clone the repository
     ```bash 
-    git clone https://github.com/pratham-kpatil/Profanity-Check.git 
+    git clone https://github.com/pratham-kpatil/Trading-Strategy.git
     cd trading_strategy
  
  - Install requirements
