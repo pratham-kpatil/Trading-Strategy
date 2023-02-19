@@ -19,8 +19,8 @@
     
 ## Usage
 
-- Get API key
- ### Get you api key at [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
+- Get API key <br>
+    Get you api key at [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
  
 - Insert you API key in config file at given path in api_key feild.
    ```bash
