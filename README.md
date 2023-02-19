@@ -10,7 +10,7 @@
  - Clone the repository
     ```bash 
     git clone https://github.com/pratham-kpatil/Trading-Strategy.git
-    cd trading_strategy
+    cd Trading-Strategy
  
  - Install requirements
     ```bash
