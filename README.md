@@ -3,7 +3,7 @@
 ## Requirement
 - Create conda environment
   ```bash
-  conda create -n trading_strategy
+  conda create -n trading_strategy python
   conda activate trading_strategy
   ```
   
